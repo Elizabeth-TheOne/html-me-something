@@ -1,0 +1,25 @@
+
+img {
+    margin-right: 75px;
+    margin-left: 75px;
+}
+
+img{
+    
+        padding-top: 20px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+    }
+h3 { 
+        background-color: #ff0066;
+    }
+footer {
+    background-color: blueviolet;
+}        
+#ghjggfg {
+    font-style: italic; 
+} 
+.interesting {
+    font-size: 15px
+}
